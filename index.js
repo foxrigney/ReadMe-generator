@@ -25,12 +25,12 @@ const questions = [
     {
         type: 'input',
         message: 'Example',
-        name: 'example',
+        name: 'Example',
     },
     {
         type: 'input',
         message: 'Tools',
-        name: 'tools',
+        name: 'Tools',
     },
 
 

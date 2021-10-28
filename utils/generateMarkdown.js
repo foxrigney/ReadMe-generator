@@ -18,10 +18,10 @@ function generateMarkdown(data) {
   ${data.description}
 
   ## Examples 
-  ${data.example}
+  ${data.Example}
 
   ## Tools
-  ${data.tools}
+  ${data.Tools}
 
  
 
